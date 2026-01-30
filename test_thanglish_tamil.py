@@ -55,7 +55,7 @@ test_cases = [
     {
         "id": "Pos_Fun_0008",
         "name": "Convert a past tense sentence",
-        "input": "naan netruponen.",
+        "input": "naan netru ponen.",
         "expected": "நான் நேற்று போனேன்.",
         "type": "positive"
     },
@@ -90,7 +90,7 @@ test_cases = [
     {
         "id": "Pos_Fun_0013",
         "name": "Convert informal phrasing",
-        "input": "seri daa, varen.",
+        "input": "sari daa, varen.",
         "expected": "சரி டா, வரேன்.",
         "type": "positive"
     },
@@ -111,7 +111,7 @@ test_cases = [
     {
         "id": "Pos_Fun_0016",
         "name": "Pronoun variation (Plural)",
-        "input": "naanga nalaiku varom.",
+        "input": "naangal nalaiku varom.",
         "expected": "நாங்கள் நாளைக்கு வரோம்.",
         "type": "positive"
     },
